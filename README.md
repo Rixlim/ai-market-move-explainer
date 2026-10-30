@@ -17,7 +17,7 @@ Figma file: [AI Market Move Explainer](https://www.figma.com/design/xwnP4Mt56GIU
 Here is the clickable prototype:
 
 
-https://github.com/user-attachments/assets/bbc2c08d-092d-4acd-bf3f-a0454c36275f
+https://github.com/user-attachments/assets/1fc61741-7848-4f70-b0c3-bae9e22dd509
 
 
 *All names, prices, sources and account numbers in the prototype and the tests are made up for the demo.*
