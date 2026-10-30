@@ -19,7 +19,8 @@ Here is the clickable prototype:
 <!-- VIDEO: on GitHub, drag demo/ai-market-move-explainer-prototype.mp4 into the editor on the line below, then delete the fallback link line. -->
 
 
-https://github.com/user-attachments/assets/e10d1739-507d-4cf8-a150-85ad759d86b4
+https://github.com/user-attachments/assets/92ab6039-db9a-4491-be17-590c37b05884
+
 
 
 ## Key Features
