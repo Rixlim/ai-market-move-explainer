@@ -17,7 +17,10 @@ Figma file: [AI Market Move Explainer](https://www.figma.com/design/xwnP4Mt56GIU
 Here is the clickable prototype:
 
 <!-- VIDEO: on GitHub, drag demo/ai-market-move-explainer-prototype.mp4 into the editor on the line below, then delete the fallback link line. -->
-[Fallback: open the demo video](demo/ai-market-move-explainer-prototype.mp4)
+
+
+https://github.com/user-attachments/assets/423a8c08-3e4c-40ce-9208-760eb16aa865
+
 
 ## Key Features
 
